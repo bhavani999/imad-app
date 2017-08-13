@@ -41,7 +41,7 @@ var articles = {
                   This is a content of my first Article. This is a content of my first Article.  This is a content of my first Article. This is a content of my first Article.
 
               </p>`
-},
+}
 };
 function createtemplate (data){
     var title= data.title;
